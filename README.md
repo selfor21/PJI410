@@ -12,3 +12,7 @@ A primeira utiliza os notebook´s do google colab HR_attrition_pt_01.jpynb e HR_
 
 A segunda fase é uma aplicação que utiliza os códigos de index.py, dash.html, index.html e teste.html para fornecer ao usuário um dashboard dinâmico, no qual ele seleciona um atributo e visualiza em um gráfico de barras, a contagem de solicitações de demissão. Tambem temos a alternativa de entrar com os dados de um novo funcionário e solicitar ao modelo, já treinado,  se este funcionário tem potencial de ser demissionário ou não.
 
+O video demonstrativo esta no You Tube:
+
+https://youtu.be/-ba19mylM0s
+
